@@ -17,7 +17,7 @@ Lastly, I crafted visually appealing reports. These weren’t just eye candy; th
 
 <div align="center">
   <h1>Adventure-Works-Ciclyng</h1>
-  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/logo.png" alt="Adventure Works Ciclyng Logo" width="500">
+  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/logo.png" alt="Adventure Works Ciclyng Logo" width="900">
 </div>
 
 <p>A case study involving databases, improving data quality, creating relational data models, using DAX, and designing reports with Power BI.</p>

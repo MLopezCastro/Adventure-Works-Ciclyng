@@ -24,9 +24,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/portada.png" alt="Adventure Works Ciclyng General" width="800">
+  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/General.png" alt="Adventure Works Ciclyng General" width="800">
 </div>
 
 <div align="center">
-  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/portada.png" alt="Adventure Works Ciclyng USA" width="800">
+  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/USA.png" alt="Adventure Works Ciclyng USA" width="800">
 </div>

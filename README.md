@@ -35,5 +35,5 @@ Lastly, I crafted visually appealing reports. These weren’t just eye candy; th
 <p>Lastly, I crafted visually appealing reports. These weren’t just eye candy; they provided valuable insights. Users could interact with filters, explore trends, and understand the data effortlessly.</p>
 
 <div align="center">
-  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/portada.png" alt="Adventure Works Ciclyng Portada" width="400">
+  <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/portada.png" alt="Adventure Works Ciclyng Portada" width="800">
 </div>

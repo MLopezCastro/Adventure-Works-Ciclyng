@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1>Adventure-Works-Ciclyng</h1>
+  <h1>Adventure-Works-Cycling</h1>
   <img src="https://github.com/MLopezCastro/Adventure-Works-Ciclyng/blob/main/logo.png" alt="Adventure Works Ciclyng Logo" width="1200">
 </div>
 
